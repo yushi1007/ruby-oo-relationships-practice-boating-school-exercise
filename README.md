@@ -6,7 +6,7 @@ Associations:
 
 ![alt text][chart]
 
-[chart]: https://i.imgur.com/eiFqjJe.png
+[chart]: https://curriculum-content.s3.amazonaws.com/module-1/ruby-oo-relationships/practice-boating-school-exercise/Image_123_00BoatingSchool.png
 
 `Student` class:
 * should initialize with `first_name`
