@@ -48,3 +48,34 @@ power_steering_pass = patrick.add_boating_test("Power Steering 201", "passed", k
 ```
 
 ![](https://media.giphy.com/media/GwYxLtDaB3Wso/giphy.gif)
+
+def add_boating_test
+    
+end
+
+def all_instructors
+
+end
+
+def find_student
+
+end
+
+def grade_percentage
+
+end
+        def add_boating_test
+    
+        end
+        
+        def all_instructors
+        
+        end
+        
+        def find_student
+        
+        end
+        
+        def grade_percentage
+        
+        end
